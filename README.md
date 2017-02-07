@@ -62,21 +62,27 @@ This project will basically have Environment setup (Hadoop, SPRAK set up), Desig
 Testing, Documentation and setting up meetings on regular basis for project status update.
 
 Specific Task assignments
+
 Kranthi Kiran Chinnakotla:
+
 a. Setting up meetings on regular basis
 b. Coding
+
 Thomas Neil Kattampallil
+
 a. Design
 b. Coding
+
 Prasanna Kumar Rajendran
+
 a. Environment Setup
 b.Design
 c. Coding
+
 Siddharth Shankar
-a.
-Coding
-b.
-Testing
+
+a.Coding
+b.Testing
 
 Measure of Success:
 After the analysis of accuracy and time complexity of each algorithms listed above , we
