@@ -1,4 +1,4 @@
-# Image Classification-MachineLearning
+# Image Scene Recognition (Classical problem of Image classification)-MachineLearning
 Final Machine Learning Project
 
 Prasanna Kumar Rajendran
